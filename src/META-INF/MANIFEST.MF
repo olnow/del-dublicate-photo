@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: olnow.del_dublicate_photo.Main
+
